@@ -6,7 +6,7 @@ function ReactProject() {
         <div className="col-lg-4 col-md-6 col-sm-12 element-item latest">
                         <div className="our-project">
                             <div className="img">
-                            <img src="./images/scm.jpg" alt="portfolio-3" className="img-fluid"/>
+                            <img src="./images/scm.png" alt="portfolio-3" className="img-fluid"/>
                             </div>
                             <div className="title py-4 scm">
                                 <h4 className="text-uppercase">Supply Chain Management</h4>
@@ -22,7 +22,7 @@ function ReactProject() {
                         <div className="our-project">
                             <div className="img">
                            
-                                <img src="./images/muzeek.jpg" alt="portfolio-3" className="img-fluid"/>
+                                <img src="./images/muzeek.png" alt="portfolio-3" className="img-fluid"/>
                             
                             </div>
                             <div className="title py-4">
@@ -39,7 +39,7 @@ function ReactProject() {
                         <div className="our-project">
                             <div className="img">
                               
-                                    <img src="./images/list-your-task.jpg" alt="portfolio-3" className="img-fluid"/>
+                                    <img src="./images/list-your-task.png" alt="portfolio-3" className="img-fluid"/>
                                
                             </div>
                             <div className="title py-4">
@@ -53,7 +53,7 @@ function ReactProject() {
                         <div className="our-project">
                             <div className="img">
                                
-                                    <img src="./images/word-count.jpg" alt="portfolio-5" className="img-fluid"/>
+                                    <img src="./images/word-count.png" alt="portfolio-5" className="img-fluid"/>
                                
                             </div>
                             <div className="title py-4">
@@ -67,7 +67,7 @@ function ReactProject() {
                         <div className="our-project">
                             <div className="img">
                                 
-                                    <img src="./images/character-count.jpg" alt="portfolio-6" className="img-fluid"/>
+                                    <img src="./images/character-count.png" alt="portfolio-6" className="img-fluid"/>
                                
                             </div>
                             <div className="title py-4">
@@ -81,7 +81,7 @@ function ReactProject() {
                 <div className="our-project">
                     <div className="img">
                        
-                        <img src="./images/calculator.jpg" alt="portfolio-7" className="img-fluid"/>
+                        <img src="./images/calculator.png" alt="portfolio-7" className="img-fluid"/>
                   
                     </div>
                     <div className="title py-4">

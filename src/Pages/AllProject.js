@@ -21,7 +21,7 @@ function AllProject() {
                     <div className="col-lg-4 col-md-6 col-sm-12 element-item popular">
                         <div className="our-project">
                             <div className="img">
-                            <img src="./images/muzeek.jpg" alt="portfolio-3" className="img-fluid"/>
+                            <img src="./images/muzeek.png" alt="portfolio-3" className="img-fluid"/>
                             </div>
                             <div className="title py-4">
                                 <h4 className="text-uppercase">Muzeek App</h4>
@@ -36,7 +36,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                              
-                                <img src="./images/list-your-task.jpg" alt="portfolio-3" className="img-fluid"/>
+                                <img src="./images/list-your-task.png" alt="portfolio-3" className="img-fluid"/>
                                
                             </div>
                             <div className="title py-4">
@@ -51,7 +51,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                            
-                                    <img src="./images/search-your-vaccine.jpg" alt="portfolio-4" className="img-fluid"/>
+                                    <img src="./images/search-your-vaccine.png" alt="portfolio-4" className="img-fluid"/>
                          
                             </div>
                             <div className="title py-4">
@@ -68,7 +68,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                        
-                                <img src="./images/word-count.jpg" alt="portfolio-5" className="img-fluid"/>
+                                <img src="./images/word-count.png" alt="portfolio-5" className="img-fluid"/>
                                 
                             </div>
                             <div className="title py-4">
@@ -83,7 +83,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                              
-                                <img src="./images/character-count.jpg" alt="portfolio-6" className="img-fluid"/>
+                                <img src="./images/character-count.png" alt="portfolio-6" className="img-fluid"/>
                                
                             </div>
                             <div className="title py-4">
@@ -98,7 +98,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                               
-                                    <img src="./images/calculator.jpg" alt="portfolio-7" className="img-fluid"/>
+                                    <img src="./images/calculator.png" alt="portfolio-7" className="img-fluid"/>
                   
                             </div>
                             <div className="title py-4">
@@ -113,7 +113,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                                
-                                <img src="/images/check-your-memory.jpg" alt="portfolio-8" className="img-fluid"/>
+                                <img src="/images/check-your-memory.png" alt="portfolio-8" className="img-fluid"/>
                                 
                             </div>
                             <div className="title py-4">
@@ -130,7 +130,7 @@ function AllProject() {
                         <div className="our-project">
                             <div className="img">
                                 
-                                    <img src="./images/tic-tac-toe.jpg" alt="portfolio-9" className="img-fluid"/>
+                                    <img src="./images/tic-tac-toe.png" alt="portfolio-9" className="img-fluid"/>
                            
                             </div>
                             <div className="title py-4">
